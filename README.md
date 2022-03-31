@@ -1,2 +1,2 @@
 # WincAcademy
-Exercises used for Winc Academy course
+Exercises and projects used for Winc Academy course
